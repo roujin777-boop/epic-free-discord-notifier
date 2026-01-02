@@ -2,7 +2,7 @@ name: Epic Free Games -> Discord
 
 on:
   schedule:
-    - cron: "10 16 * * *"   # UTC 00:00 = JST 09:00
+    - cron: "10 16 * * *"   # UTC 16:10 = JST 01:10
   workflow_dispatch: {}
 
 permissions:
