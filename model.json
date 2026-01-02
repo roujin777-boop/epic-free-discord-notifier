@@ -1,0 +1,16 @@
+{
+    "content": "みんな！EPICでまた無料ゲームが出たぽーん！",
+    "embeds": [
+        {
+        "title": "",
+        "description": "",
+        "url": "https://store.epicgames.com/",
+        "color": 31487,
+        "image": {
+            "url": "https://elxss.github.io/src/img/logo.png"
+          }
+        }
+    ],
+    "username": "ブルベリEpic無料配布通知",
+    "attachments": []
+}
